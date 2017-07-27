@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "sysmon.h"
 
+int test()
+{
+}
+
 float calc_cpu_usage()
 {
 	printf("caculating cpu usage\n");

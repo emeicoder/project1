@@ -1,4 +1,5 @@
 #define CPU "cpu"
+#define RAM "ram"
 #define MEMORY "memory"
 #define DISK "disk"
 #define NETWORK "networking"

@@ -3,3 +3,7 @@ void cpu_main()
 {
 	printf("initial cpu usage\n");
 }
+
+func()
+{
+}

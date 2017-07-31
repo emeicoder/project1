@@ -3,6 +3,7 @@
 
 float calc_cpu_usage()
 {
+	debug("add debug");
 	printf("caculating cpu usage\n");
 }
 void main(int argc, char *argv)
